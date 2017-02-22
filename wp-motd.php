@@ -170,6 +170,6 @@ function greetmotd_show_motds() {
 
 //Shortcode
 function greetmotd_shortcode($atts) {
-  return "<div id='motds'><p>".greetmotd_motd()."</p></div>";
+  return "<div id='motds'>".greetmotd_motd()."</div>";
 }
 add_shortcode('motd', 'greetmotd_shortcode');
