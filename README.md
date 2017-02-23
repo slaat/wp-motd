@@ -1,5 +1,5 @@
 # wp-motd
-Greeting Plugin for Wordpress. Show a different greeting message every day!
+Greeting Plugin for Wordpress. Show a different welcome message every day!
 
 ![alt tag](https://s3.eu-central-1.amazonaws.com/foodbase-images/greet.png)
 
